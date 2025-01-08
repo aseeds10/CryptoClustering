@@ -1,4 +1,4 @@
-# Project Title
+# Crypto Clustering
 Predicting CryptoCurrency Price Changes (Unsupervised Machine Learning)
 
 ## Description
